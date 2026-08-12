@@ -8,7 +8,7 @@ Desarrollado como proyecto final para la materia de Introducción a Redes Neuron
 
 La clasificación visual de galaxias según la secuencia de Hubble es un proceso fundamental en astrofísica, pero resulta inviable manualmente dado el inmenso volumen de datos astronómicos actuales y los problemas de baja resolución. 
 
-Este proyecto implementa una Red Neuronal Convolucional (CNN) en Python utilizando TensorFlow/Keras para abordar este problema, logrando discriminar características estructurales complejas a partir de un conjunto de datos de más de 5,600 imágenes.
+Este proyecto implementa una Red Neuronal Convolucional (CNN) en Python utilizando TensorFlow/Keras para abordar este problema, logrando discriminar características estructurales complejas a partir de un conjunto de datos de más de 5,600 imágenes, ubicadas en https://drive.google.com/drive/folders/1KO-0zXPLNNWNANdyPr38_gdFL9sT0Ovb?usp=sharing.
 
 ## Arquitectura del Modelo
 
